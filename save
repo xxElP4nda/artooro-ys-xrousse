@@ -1,0 +1,365 @@
+ {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'Au fil de la soie',
+        text: 'La Croix Rousse',
+        location: { lat: 45.774748, lng: 4.832049, name: 'Croix Rousse, Lyon' }
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'La Croix Rousse',
+        text: 'La Croix Rousse est l’un des quartiers les plus emblématiques de Lyon. Au sommet de la colline du même nom, au-dessus du reste de la ville, entre Rhône et Saône, il est connu pour son ambiance de village, son marché et ses petits commerces. Ici, on est Croix Roussien avant d’être Lyonnais.',
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'La Croix Rousse',
+        text: 'Autrefois séparée de Lyon, la commune de la Croix Rousse bénéficiait d’une certaine autonomie et d’une franchise de taxes, ce qui lui permettait de vendre le vin moins cher qu’à Lyon. Le long de la Grande rue étaient installées de nombreuses auberges.',
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'La Croix Rousse',
+        text: 'Le quartier est aussi connu pour avoir été celui des ouvriers en soie, les canuts, au 19e siècle. Il faut imaginer tous ces immeubles-ateliers, bruissant du métier à tisser créé par Joseph-Marie Jacquard, dont sortait des kilomètres de rouleaux de brocart ou de velours de soie chaque année.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'La Croix Rousse',
+        text: 'La principale innovation de ce métier révolutionnaire est de ne nécessiter qu’une seule personne pour le faire fonctionner, là où les autres métiers ont besoin de deux personnes, l’une pour actionner le peigne, l’autre pour faire passer le fil transversal.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'La Croix Rousse',
+        text: 'L’activité du tissage de la soie, relancée par Napoléon Ier, a été incontournable de la Croix Rousse pendant près d’un siècle. Après la Première Guerre mondiale, l’activité va doucement décliner et le quartier devenir un secteur populaire et ouvrier.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'La Croix Rousse',
+        text: 'Il faut attendre la fin du 20e siècle pour que la Croix Rousse devienne le quartier bobo que l’on connaît aujourd’hui.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'Prêt pour la suite?',
+        text: 'Afin de passer à la prochaine étape, je vais vous poser une question. La bonne réponse vous permettra de continuer votre aventure!',
+
+      },
+      {
+        type: 'question',
+        image: 'images/image1.jpg',
+        question: 'Selon vous, pour quelle autre raison Jacquard est-il connu?',
+        options: ['Il a donné son nom à une révolte de paysans', 'C\'est un personnage du film "Les Visiteurs"', 'Le tricot jacquard, que l\'on retrouve sur des pulls', 'Un coquillage porte son nom'],
+        correct: 2
+      },
+      {
+        type: 'content',
+        image: 'images/image1.jpg',
+        title: 'Bien joué!',
+        text: 'Le tricot jacquard est une technique relativement difficile à réaliser.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Prochaine étape',
+        text: 'On se retrouve là-bas',
+        location: { lat: 45.776758, lng: 4.832049, name: 'Immeuble de canut, rue Dumenge' } 
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'L’immeuble de canut voit le jour au début du 19e siècle, lorsque le métier Jacquard se généralise. Pendant près de 3 siècles, les métiers à tisser la soie sont implantés en bordure de la Saône, dans les quartiers Saint-Georges et Vaise, ainsi qu’au bord du Rhône, dans l’actuel quartier de la Guillotière.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'Le métier Jacquard est plus haut que les métiers traditionnels, il n’est pas possible de l’installer dans les ateliers existants et il devient donc nécessaire d’en construire de nouveaux.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'La colline de la Croix Rousse est alors peu occupée, de nombreux terrains sont donc disponibles. C’est cet endroit qui sera choisi pour implanter les nouveaux ateliers, dans des immeubles comme celui situé au 12 rue Dumenge.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'L’immeuble de canut se caractérise par un nombre d’étages élevé (généralement 5, parfois 6), des plafonds hauts de 4 mètres, à poutre apparente, pour pouvoir installer et fixer le métier à tisser, des fenêtres nombreuses et rapprochées, pour faire entrer un maximum de lumière.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'Les familles de tisseurs vivent sur place, l’espace le plus éloigné des fenêtres étant réservé à un coin cuisine et un couchage. Dans un même atelier pouvaient cohabiter une famille de 4 personnes et 1 ou 2 apprentis.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'Dans certains immeubles, un balcon au premier étage, au-dessus de la porte, marque l’appartement du contremaître qui pouvait ainsi surveiller les allées et venues des ouvriers de l’immeuble, qui étaient pourtant des travailleurs indépendants.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'Les conditions de travail sont difficiles : la tâche est pénible, le métier à tisser extrêmement bruyant et les ateliers ne sont pas du tout isolés. Les canuts sont rémunérés à la pièce, soit un rouleau de soie de plusieurs mètres.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Immeuble de canut',
+        text: 'Ils travaillent 6 jours sur 7, pour une rémunération très faible, qui sera à l’origine des révoltes des canuts dont nous parlerons un peu plus loin.',
+
+      },
+      {
+        type: 'question',
+        image: 'images/image3.jpg',
+        question: 'D\'où vient le fil de soie utilisé dans le tissage?',
+        options: ['De l\'araignée', 'Du ver à soie', 'D\'une plante nommée Sericillium', 'D\'une protéine du lait de vache'],
+        correct: 1
+      },
+      {
+        type: 'content',
+        image: 'images/image3.jpg',
+        title: 'Bien joué, les asticots!',
+        text: 'En route pour la suite',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'La Croix Rousse',
+        location: { lat: 45.774568, lng: 4.834969, name: 'Le Gros Caillou, Croix Rousse' }
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'Ce bloc de roche imposant a été trouvé lors du percement du tunnel du funiculaire de Croix Paquet à la Croix Rousse. Sa taille lui a donné son nom et il a été laissé sur place pour devenir aujourd’hui un symbole à part entière de la Croix Rousse.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'Certains racontent une toute autre histoire à son sujet. La légende raconte qu’un jour, Dieu, qui avait pour habitude de descendre sur Terre discrètement, est venu à la Croix Rousse.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'Voyant une famille d’ouvriers se faire expulser brutalement de leur logement par un huissier peu scrupuleux, il décide de le punir. Puisqu’il avait un cœur de pierre, il fit de son cœur un petit caillou qui tomba à ses pieds.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'Dieu lui dit que pour le récupérer, il devait trouver plus méchant que lui et fit rouler le caillou devant lui. L’huissier n’avait d’autre choix que de le suivre.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'C’est ainsi qu’il parcourut toute la ville à la recherche de plus malfaisant que lui. Passant de quartier en quartier, des docks de Vaise mal famés au tribunal plein de criminels et d’avocats véreux, le caillou grossissait à vue d'œil mais ne s'arrêtait pas.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'L’huissier finit par remonter à la Croix Rousse, poussant devant lui un caillou devenu énorme. Et en arrivant au sommet de la colline, le caillou, trop gros, finit par s’effondrer sur l’huissier.',
+        
+      },
+      {
+        type: 'question',
+        image: 'images/image13.jpg',
+        question: 'À l’occasion de la fête des Lumières 2008, le Gros caillou a reçu un cadeau de la part des habitants.',
+        options: ['Une second bloc rocheux a été installé à proximité pour ne pas le laisser seul', 'Un bonnet géant a été tricoté pour qu’il n’ait pas froid.', 'Un cœur rouge a été peint dessus pour célébrer la légende.', 'Une croix en mémoire de l’huissier a été fixée dessus.'],
+        correct: 1
+      },
+      {
+        type: 'content',
+        image: 'images/image13.jpg',
+        title: 'Le Gros Caillou',
+        text: 'Félicitations! En route pour la suite',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image12.jpg',
+        title: 'Prochaine étape',
+        text: 'On se retrouve là-bas',
+        location: { lat: 45.774171, lng: 4.836429, name: 'Place Bellevue' } 
+
+      },
+      {
+        type: 'content',
+        image: 'images/image12.jpg',
+        title: 'Place Bellevue',
+        text: 'Le fort Saint-Laurent qui ceinture le côté nord de la place est l’un des derniers vestiges de l’ancien rempart qui faisait la séparation entre la Croix Rousse au nord et Lyon au Sud.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image12.jpg',
+        title: 'Place Bellevue',
+        text: 'Lorsque la commune indépendante de la Croix Rousse est rattachée à Lyon en 1852, le rempart existe toujours et marque donc la séparation entre le 1er arrondissement, sur les pentes, et le 4e, qui correspond à l’ancienne commune.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image12.jpg',
+        title: 'Place Bellevue',
+        text: 'Les immeubles sont construits de part et d’autre du rempart. Des immeubles cossus du côté de Lyon et de l’habitat collectif plus modeste côté Croix Roussien.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image12.jpg',
+        title: 'Place Bellevue',
+        text: 'Au niveau du fort, ce sont surtout des immeubles de canuts qui sont bâtis comme on peut le voir de part et d’autre, reconnaissables avec leurs nombreuses fenêtres.',
+        
+      },
+      {
+        type: 'content',
+        image: 'images/image6.jpg',
+        title: 'Place Bellevue',
+        text: 'L’immeuble de canut étant facile et rapide à construire, ce modèle de construction va se répandre très rapidement à partir de 1830. En quelques années, c’est la quasi-totalité des pentes et la partie est du plateau, côté Rhône, qui se couvrent de ces immeubles.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image6.jpg',
+        title: 'Place Bellevue',
+        text: 'Ces derniers sont très recherchés à partir de la fin des années 1990. Les plafonds hauts, à poutres apparentes et leur luminosité exceptionnelle due aux nombreuses fenêtres en font des biens très appréciés qui vont rapidement contribuer à la gentrification du quartier.',
+
+      },
+      {
+        type: 'question',
+        image: 'images/image6.jpg',
+        question: 'Depuis la place Bellevue, par beau temps, on peut apercevoir :',
+        options: ['Le Montblanc', 'La Basilique de Fourvière', 'La Tour Eiffel', 'La Saône'],
+        correct: 0
+      },
+      {
+        type: 'content',
+        image: 'images/image6.jpg',
+        title: 'Place Bellevue',
+        text: 'Eh oui! Si vous avez pu voir les montagnes, vous avez en fait vu le Montblanc!',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Prochaine étape',
+        text: 'On se retrouve là-bas',
+        location: { lat: 45.772659, lng: 4.834529, name: 'Place Colbert' } 
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Les conditions de vie des canuts sont tellement difficiles qu’elles conduisent à plusieurs révoltes au 19e siècle, en 1831, 1834 et 1848. À cette époque, le tissage de la soie fait vivre la moitié de la population.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Le nombre de canuts, c’est-à-dire les ouvriers tisseurs, est estimé à 8.000. Ceux-ci sont des maîtres-artisans, propriétaires de leurs métiers à tisser. On comptait de 2 à 6 métiers par atelier.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Ils emploient environ 30.000 compagnons, payés à la journée. Souvent logés chez l’artisan, ces derniers dormaient sur la soupente - mezzanine - aménagée au fond de l’atelier.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'À cela s’ajoutent les femmes, dont la plupart travaillaient sur des métiers annexes, comme la préparation des bobines de fil ou la passementerie pour fabriquer des rubans, par exemple. Certaines étaient tisseuses, souvent à la suite du décès du père de famille.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Cet ensemble était dirigé par un corps de 400 négociants, surnommés “soyeux” qui passaient commande de la fabrication des pièces et assuraient la vente au client. Ce sont également eux qui fixaient les prix.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Malgré la forte demande, la rémunération des canuts reste faible, ce qui les conduit à se révolter pour réclamer un meilleur salaire. En novembre 1831, les canuts descendent de la Croix Rousse, alors indépendante, pour fondre sur Lyon, dans l’actuel quartier des Terreaux où résident la plupart des négociants.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'L’affrontement contre la Garde nationale est rude et le nombre de victimes est estimé à 600 personnes des deux camps. Les canuts parviennent à prendre la ville et la tension retombe lorsqu’ils pensent avoir obtenu gain de cause.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Trois ans plus tard, une nouvelle révolte, menée par les républicains est matée durement par le pouvoir royal.',
+
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'On se retrouve là-bas',
+
+      },
+      {
+        type: 'question',
+        image: 'images/image6.jpg',
+        question: 'Le terme canut désigne l’ouvrier en soie, mais son origine est discutée. Le féminin de canut est :',
+        options: ['canute', 'canuche', 'canette', 'canuse'],
+        correct: 3
+      },
+      {
+        type: 'content',
+        image: 'images/image14.jpg',
+        title: 'Place Colbert',
+        text: 'Bien joué les canuses et canuts!',
+
+      },
+      {
+        type: 'content',
+        image: 'https://images.pexels.com/photos/4082358/pexels-photo-4082358.jpeg',
+        title: 'Thanks for the company',
+        text: 'Your Lyonese journey ends here. But it could continue. Please leave us a feedback on what you like and what we can improve. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQLGcW5hg4SAuTlSOIb6fX5mUm3OwyEkhR7ZVvJbpvcpfVfw/viewform?usp=sharing&ouid=102983617389933859509" target="_blank" class="underline hover:text-blue-300">For sure!</a>',
+      }
+    ];
